@@ -1,0 +1,30 @@
+﻿{
+	"version": 1656420766,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/sp_plate-sheet0.png",
+		"images/sp_plate-sheet1.png",
+		"images/sp_cutline_horizontal_area-sheet0.png",
+		"images/sp_line_width_g1-sheet0.png",
+		"images/sp_cutline_vertical_area-sheet0.png",
+		"images/sp_line_leght_g2-sheet0.png",
+		"images/sp_ui_base-sheet0.png",
+		"images/sp_ui_g1-sheet0.png",
+		"images/sp_background-sheet0.png",
+		"images/sp_pencil-sheet0.png",
+		"images/sp_pen-sheet0.png",
+		"images/sp_ercp-sheet0.png",
+		"images/sp_e_saw-sheet0.png",
+		"images/sp_saw-sheet0.png",
+		"images/sp_rcp-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
